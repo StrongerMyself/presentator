@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="196" viewBox="0 0 192 196">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="66" height="77" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_13" data-name="Rectangle 13" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="192" height="196" stroke="none"/>
+    <rect x="0.5" y="0.5" width="191" height="195" fill="none"/>
+  </g>
+  <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(15 53)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="72" height="131" stroke="none"/>
+    <rect x="0.5" y="0.5" width="71" height="130" fill="none"/>
+  </g>
+  <g id="Rectangle_14-2" data-name="Rectangle 14" transform="translate(107 53)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="72" height="131" stroke="none"/>
+    <rect x="0.5" y="0.5" width="71" height="130" fill="none"/>
+  </g>
+  <text id="heap" transform="translate(49 45)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-13.113" y="0">heap</tspan></text>
+  <text id="call_stack" data-name="call stack" transform="translate(143 45)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-23.76" y="0">call stack</tspan></text>
+  <text id="Engine" transform="translate(96 19)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-17.95" y="0">Engine</tspan></text>
+  <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(26 72)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="12" height="11" stroke="none"/>
+    <rect x="0.5" y="0.5" width="11" height="10" fill="none"/>
+  </g>
+  <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(49 94)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="13" height="12" stroke="none"/>
+    <rect x="0.5" y="0.5" width="12" height="11" fill="none"/>
+  </g>
+  <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(31 126)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="13" height="13" stroke="none"/>
+    <rect x="0.5" y="0.5" width="12" height="12" fill="none"/>
+  </g>
+  <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(57 155)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="11" height="12" stroke="none"/>
+    <rect x="0.5" y="0.5" width="10" height="11" fill="none"/>
+  </g>
+  <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(68 128)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="12" height="11" stroke="none"/>
+    <rect x="0.5" y="0.5" width="11" height="10" fill="none"/>
+  </g>
+  <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(70 64)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="8" height="10" stroke="none"/>
+    <rect x="0.5" y="0.5" width="7" height="9" fill="none"/>
+  </g>
+  <g id="Repeat_Grid_16" data-name="Repeat Grid 16" transform="translate(110 107)" clip-path="url(#clip-path)">
+    <g transform="translate(-326 -246)">
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-326 -233)">
+      <rect id="Rectangle_21-2" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-326 -220)">
+      <rect id="Rectangle_21-3" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-326 -207)">
+      <rect id="Rectangle_21-4" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-326 -194)">
+      <rect id="Rectangle_21-5" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-326 -181)">
+      <rect id="Rectangle_21-6" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525.372" height="171.242" viewBox="0 0 525.372 171.242">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="65.207" height="121.498" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_15" data-name="Repeat Grid 15" transform="translate(0 36.502)" clip-path="url(#clip-path)">
+    <g transform="translate(-54 -92.502)">
+      <path id="Path_2" data-name="Path 2" d="M14.927,49.123,10.269,45.2a.957.957,0,1,0-1.353,1.353l3.025,2.294H-49.043A.957.957,0,0,0-50,49.8a.957.957,0,0,0,.957.957H11.941L8.916,53.781a.957.957,0,0,0,1.353,1.353l4.658-4.658A.957.957,0,0,0,14.927,49.123Z" transform="translate(104 47.586)"/>
+      <path id="Path_2-2" data-name="Path 2" d="M14.927,49.123,10.269,45.2a.957.957,0,1,0-1.353,1.353l3.025,2.294H-49.043A.957.957,0,0,0-50,49.8a.957.957,0,0,0,.957.957H11.941L8.916,53.781a.957.957,0,0,0,1.353,1.353l4.658-4.658A.957.957,0,0,0,14.927,49.123Z" transform="translate(104 84.586)"/>
+      <path id="Path_2-3" data-name="Path 2" d="M14.927,49.123,10.269,45.2a.957.957,0,1,0-1.353,1.353l3.025,2.294H-49.043A.957.957,0,0,0-50,49.8a.957.957,0,0,0,.957.957H11.941L8.916,53.781a.957.957,0,0,0,1.353,1.353l4.658-4.658A.957.957,0,0,0,14.927,49.123Z" transform="translate(104 121.586)"/>
+      <path id="Path_2-4" data-name="Path 2" d="M14.927,49.123,10.269,45.2a.957.957,0,1,0-1.353,1.353l3.025,2.294H-49.043A.957.957,0,0,0-50,49.8a.957.957,0,0,0,.957.957H11.941L8.916,53.781a.957.957,0,0,0,1.353,1.353l4.658-4.658A.957.957,0,0,0,14.927,49.123Z" transform="translate(104 158.586)"/>
+    </g>
+  </g>
+  <g id="Group_1" data-name="Group 1" transform="translate(-147 -145)">
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(232 169)" fill="#fff" stroke="#000" stroke-width="2">
+      <rect width="137.088" height="147.242" stroke="none"/>
+      <rect x="1" y="1" width="135.088" height="145.242" fill="none"/>
+    </g>
+    <text id="TCP_Server" data-name="TCP Server" transform="translate(273 248)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TCP Server</tspan></text>
+    <text id="Connections" transform="translate(148 158)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Connections</tspan></text>
+    <text id="Threads" transform="translate(388 158)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Threads</tspan></text>
+  </g>
+  <g id="Group_2" data-name="Group 2" transform="translate(-54 3)">
+    <g id="Group_1-2" data-name="Group 1" transform="translate(64 -89.794)">
+      <g id="Rectangle_12-2" data-name="Rectangle 12" transform="translate(232 169)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="283.372" height="30.794" stroke="none"/>
+        <rect x="0.5" y="0.5" width="282.372" height="29.794" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_1-3" data-name="Group 1" transform="translate(67 -87)">
+      <g id="Rectangle_12-3" data-name="Rectangle 12" transform="translate(232 169)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="56.391" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="55.391" height="24" fill="none"/>
+      </g>
+      <text id="handler" transform="translate(241.642 186.5)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">handler</tspan></text>
+    </g>
+  </g>
+  <g id="Group_3" data-name="Group 3" transform="translate(-54 42)">
+    <g id="Group_1-4" data-name="Group 1" transform="translate(127 -126)">
+      <g id="Rectangle_12-4" data-name="Rectangle 12" transform="translate(232 169)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="74" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="73" height="24" fill="none"/>
+      </g>
+      <text id="handler-2" data-name="handler" transform="translate(252 186.5)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">handler</tspan></text>
+    </g>
+  </g>
+  <g id="Group_4" data-name="Group 4" transform="translate(-54 81)">
+    <g id="Group_1-5" data-name="Group 1" transform="translate(203 -165)">
+      <g id="Rectangle_12-5" data-name="Rectangle 12" transform="translate(232 169)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="53.337" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="52.337" height="24" fill="none"/>
+      </g>
+      <text id="handler-3" data-name="handler" transform="translate(239.846 186.5)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">handler</tspan></text>
+    </g>
+  </g>
+  <g id="Group_5" data-name="Group 5" transform="translate(-54 120)">
+    <g id="Group_1-6" data-name="Group 1" transform="translate(258.592 -204)">
+      <g id="Rectangle_12-6" data-name="Rectangle 12" transform="translate(232 169)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="86.408" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="85.408" height="24" fill="none"/>
+      </g>
+      <text id="handler-4" data-name="handler" transform="translate(259.299 186.5)" fill="#707070" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">handler</tspan></text>
+    </g>
+  </g>
+</svg>

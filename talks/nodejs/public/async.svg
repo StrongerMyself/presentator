@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402" height="196" viewBox="0 0 402 196">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="66" height="77" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="94" height="43" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_13" data-name="Rectangle 13" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="192" height="196" stroke="none"/>
+    <rect x="0.5" y="0.5" width="191" height="195" fill="none"/>
+  </g>
+  <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(209 21)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="192" height="54" stroke="none"/>
+    <rect x="0.5" y="0.5" width="191" height="53" fill="none"/>
+  </g>
+  <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(209 145)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="192" height="51" stroke="none"/>
+    <rect x="0.5" y="0.5" width="191" height="50" fill="none"/>
+  </g>
+  <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(15 53)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="72" height="131" stroke="none"/>
+    <rect x="0.5" y="0.5" width="71" height="130" fill="none"/>
+  </g>
+  <g id="Rectangle_14-2" data-name="Rectangle 14" transform="translate(107 53)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="72" height="131" stroke="none"/>
+    <rect x="0.5" y="0.5" width="71" height="130" fill="none"/>
+  </g>
+  <text id="heap" transform="translate(49 45)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-13.113" y="0">heap</tspan></text>
+  <text id="call_stack" data-name="call stack" transform="translate(143 45)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-23.76" y="0">call stack</tspan></text>
+  <text id="Engine" transform="translate(96 19)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-17.95" y="0">Engine</tspan></text>
+  <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(26 72)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="12" height="11" stroke="none"/>
+    <rect x="0.5" y="0.5" width="11" height="10" fill="none"/>
+  </g>
+  <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(49 94)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="13" height="12" stroke="none"/>
+    <rect x="0.5" y="0.5" width="12" height="11" fill="none"/>
+  </g>
+  <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(31 126)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="13" height="13" stroke="none"/>
+    <rect x="0.5" y="0.5" width="12" height="12" fill="none"/>
+  </g>
+  <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(57 155)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="11" height="12" stroke="none"/>
+    <rect x="0.5" y="0.5" width="10" height="11" fill="none"/>
+  </g>
+  <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(68 128)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="12" height="11" stroke="none"/>
+    <rect x="0.5" y="0.5" width="11" height="10" fill="none"/>
+  </g>
+  <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(70 64)" fill="#fff" stroke="#000" stroke-width="1">
+    <rect width="8" height="10" stroke="none"/>
+    <rect x="0.5" y="0.5" width="7" height="9" fill="none"/>
+  </g>
+  <g id="Repeat_Grid_16" data-name="Repeat Grid 16" transform="translate(110 107)" clip-path="url(#clip-path)">
+    <g transform="translate(-326 -246)">
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-326 -233)">
+      <rect id="Rectangle_21-2" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-326 -220)">
+      <rect id="Rectangle_21-3" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-326 -207)">
+      <rect id="Rectangle_21-4" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-326 -194)">
+      <rect id="Rectangle_21-5" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-326 -181)">
+      <rect id="Rectangle_21-6" data-name="Rectangle 21" width="66" height="9" transform="translate(326 246)" fill="#c9c9c9"/>
+    </g>
+  </g>
+  <g id="refresh-arrow" transform="translate(197.164 92)">
+    <path id="path6226" d="M26.99,0a.484.484,0,0,0-.5.483v2.6a11.927,11.927,0,1,0,9.454,4.306.519.519,0,1,0-.8.662A10.892,10.892,0,1,1,26.487,4.12V6.707a.484.484,0,0,0,.733.415L32.405,4.01a.484.484,0,0,0,0-.83L27.22.069A.483.483,0,0,0,26.99,0Zm.465,1.338L31.215,3.6,27.455,5.852ZM18.116,18.371a.259.259,0,0,0-.213.392c2.061,3.57,4.692,5.834,8.86,5.834a.259.259,0,1,0,0-.519c-3.984,0-6.4-2.085-8.411-5.574A.259.259,0,0,0,18.116,18.371Z" transform="translate(0 0)"/>
+  </g>
+  <text id="EventLoop" transform="translate(243 111)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">EventLoop</tspan></text>
+  <text id="Node_API" data-name="Node API" transform="translate(351 13)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Node API</tspan></text>
+  <text id="Callback_queue" data-name="Callback queue" transform="translate(401 139)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-80.502" y="0">Callback queue</tspan></text>
+  <g id="Repeat_Grid_17" data-name="Repeat Grid 17" transform="translate(213 149)" clip-path="url(#clip-path-2)">
+    <g transform="translate(-321 -216)">
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="11" height="43" transform="translate(321 216)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-305 -216)">
+      <rect id="Rectangle_24-2" data-name="Rectangle 24" width="11" height="43" transform="translate(321 216)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-289 -216)">
+      <rect id="Rectangle_24-3" data-name="Rectangle 24" width="11" height="43" transform="translate(321 216)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-273 -216)">
+      <rect id="Rectangle_24-4" data-name="Rectangle 24" width="11" height="43" transform="translate(321 216)" fill="#c9c9c9"/>
+    </g>
+    <g transform="translate(-257 -216)">
+      <rect id="Rectangle_24-5" data-name="Rectangle 24" width="11" height="43" transform="translate(321 216)" fill="#c9c9c9"/>
+    </g>
+  </g>
+  <text id="Timeout_Promise_..." data-name="Timeout
+Promise
+..." transform="translate(219 37)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Timeout</tspan><tspan x="0" y="16">Promise</tspan><tspan x="0" y="32">...</tspan></text>
+</svg>

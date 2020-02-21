@@ -1,0 +1,50 @@
+@charset "UTF-8"
+
+*, *:after, *:before
+	box-sizing: border-box
+	-webkit-tap-highlight-color: transparent
+	@extend %scrollbar
+
+HTML, BODY
+	height: 100%
+	width: 100%
+	margin: 0
+	padding: 0
+
+[id="root"]
+	width: 100%
+	height: 100%
+
+[class="hidden"]
+	display: block
+	width: 1px
+	height: 1px
+	position: absolute
+	top: 0
+	left: 0
+	opacity: 0
+	visibility: hidden
+
+%no-scrollbar
+	&::-webkit-scrollbar-track
+		background: transparent
+		visibility: hidden
+	&::-webkit-scrollbar
+		width: 0 
+		height: 0
+		visibility: hidden
+	&::-webkit-scrollbar-thumb
+		background: transparent
+		visibility: hidden
+		cursor: default
+	
+%scrollbar
+	&::-webkit-scrollbar-track
+		background: rgba(#000, 0.2)
+	&::-webkit-scrollbar
+		width: 7px
+		height: 7px
+	&::-webkit-scrollbar-thumb
+		background: rgba(#000, 0.6)
+		border-radius: 10em
+		cursor: pointer

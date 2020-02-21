@@ -1,0 +1,46 @@
+@import '~prismjs/themes/prism.css'
+
+[class*="token operator"]
+    background: transparent !important
+
+code[class*="language-"],
+pre[class*="language-"]
+    display: block
+    background: transparent
+
+code[class*="language-"]
+    padding: 0 10px
+    margin: 0 -10px
+    width: calc(100% + 10px)
+
+pre[class*="language-"]
+    margin: 0
+    padding: 0
+
+.code
+    display: block
+
+.rowWrap
+    position: relative
+    display: block
+    min-height: 1.5em
+    width: 100%
+    &:hover
+        .rowOverlay
+            opacity: 1
+
+.row
+    position: relative
+    display: block
+    z-index: 2
+    
+.rowOverlay
+    position: absolute
+    z-index: 1
+    top: 0
+    left: -0.3em
+    width: calc(100% + 0.6em)
+    height: 100%
+    pointer-events: none
+    background-color: #fffdc1
+    opacity: 0

@@ -1,0 +1,35 @@
+{
+  "name": "web-setup",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "bootstrap": "lerna run clean && lerna bootstrap --use-workspaces",
+    "clean": "lerna clean && lerna run clean --parallel --stream",
+    "ls": "lerna ls",
+    "dev": "lerna run dev --parallel --stream",
+    "build": "lerna run build --parallel --stream",
+    "compile": "lerna run compile --parallel --stream"
+  },
+  "workspaces": [
+    "packages/*",
+    "talks/*"
+  ],
+  "dependencies": {
+    "@types/prismjs": "^1.16.0",
+    "prismjs": "^1.19.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "@types/react": "^16.8.13",
+    "@types/react-dom": "^16.8.3",
+    "autoprefixer": "^9.6.1",
+    "lerna": "^3.16.4",
+    "node-sass": "^4.12.0",
+    "parcel-bundler": "^1.12.4",
+    "postcss-modules": "^1.4.1",
+    "rimraf": "^3.0.0",
+    "typescript": "^3.6.4"
+  }
+}

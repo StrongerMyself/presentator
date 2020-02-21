@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="442" height="205" viewBox="0 0 442 205">
+  <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(264 81)" fill="none" stroke="#707070" stroke-width="1">
+    <rect width="178" height="124" stroke="none"/>
+    <rect x="0.5" y="0.5" width="177" height="123" fill="none"/>
+  </g>
+  <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(0 80)" fill="none" stroke="#707070" stroke-width="1">
+    <rect width="178" height="124" stroke="none"/>
+    <rect x="0.5" y="0.5" width="177" height="123" fill="none"/>
+  </g>
+  <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(0 36)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="178" height="45" stroke="none"/>
+    <rect x="0.5" y="0.5" width="177" height="44" fill="none"/>
+  </g>
+  <g id="Rectangle_28" data-name="Rectangle 28" transform="translate(264 37)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="178" height="45" stroke="none"/>
+    <rect x="0.5" y="0.5" width="177" height="44" fill="none"/>
+  </g>
+  <text id="Main_thread" data-name="Main thread" transform="translate(89 66)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-42.895" y="0">Main thread</tspan></text>
+  <text id="Thread_pool_workers_" data-name="Thread pool (workers)" transform="translate(353 67)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-77.277" y="0">Thread pool (workers)</tspan></text>
+  <text id="Initialization" transform="translate(89 108)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-42.738" y="0">Initialization</tspan></text>
+  <text id="NodeJS" transform="translate(149 17)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-26.672" y="0">NodeJS</tspan></text>
+  <text id="Libuv" transform="translate(423 17)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-18.766" y="0">Libuv</tspan></text>
+  <text id="I_O_DNS_FS_" data-name="I/O (DNS, FS)" transform="translate(353 119)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-46.223" y="0">I/O (DNS, FS)</tspan></text>
+  <text id="Requiring_modules" data-name="Requiring modules" transform="translate(89 144)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-66.391" y="0">Requiring modules</tspan></text>
+  <text id="CPU_crypto_zlib_" data-name="CPU (crypto, zlib)" transform="translate(353 155)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-60.52" y="0">CPU (crypto, zlib)</tspan></text>
+  <text id="Event_loop" data-name="Event loop" transform="translate(84 180)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-37.508" y="0">Event loop</tspan></text>
+  <text id="_..." data-name="..." transform="translate(348 191)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-5.203" y="0">...</tspan></text>
+  <line id="Line_3" data-name="Line 3" x2="83" transform="translate(166.5 59.5)" fill="none" stroke="#707070" stroke-width="1"/>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "name": "talk-nodejs",
+  "version": "1.0.0",
+  "main": "export.tsx",
+  "module": "export.tsx",
+  "types": "export.tsx",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.tsx"
+  }
+}

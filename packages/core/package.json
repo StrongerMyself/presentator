@@ -1,0 +1,13 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "module": "src/index.tsx",
+  "types": "src/index.tsx",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "parcel ./demo/index.html",
+    "build": "parcel build ./src/index.tsx"
+  }
+}

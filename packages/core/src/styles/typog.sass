@@ -1,0 +1,63 @@
+BODY
+	font-size: 32px
+    line-height: 1
+	
+H1, H2, H3, H4, H5, H6, P, A, OL, UL, LI
+	font-family: inherit
+	font-weight: inherit
+	font-style: inherit
+	font-size: 100%
+	line-height: normal
+	vertical-align: baseline
+	text-decoration: none
+	color: inherit
+	margin: 0
+	padding: 0
+	font-size: 1em
+	padding: 0.2em 0
+
+H1
+	font-size: 2em
+H2
+	font-size: 1.8em
+H3
+	font-size: 1.4em
+
+A
+	border-bottom: 0.1em solid currentColor
+
+UL, OL
+	list-style: none
+	LI
+		position: relative
+		padding: 0.4em 0.5em
+		UL, OL
+			margin-top: -20px
+UL
+	padding-left: 10px
+	& > LI:before
+		content: ''
+		display: block
+		width: 10px
+		height: 10px
+		float: left
+		margin-top: 0.3em
+		margin-right: 0.5em
+		margin-left: calc(-0.5em - 10px)
+		background-color: currentColor
+
+OL
+	counter-reset: list
+	padding-left: 1.2em
+	& > LI:before
+		counter-increment: list
+		content: counter(list) "."
+		position: absolute
+		right: 100%
+
+[class*="typog-bg"]
+	background-color: #fff
+	color: #000
+
+[class*="typog-pre"]
+	white-space: pre
