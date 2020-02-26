@@ -47,8 +47,6 @@ export const Presentator: FunctionComponent<Props> = ({
         }
     }, [])
     
-    console.log(slides)
-
     return (
         <Context.Provider value={{ active }}>
             <Container>
