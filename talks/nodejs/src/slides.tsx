@@ -5,7 +5,7 @@ import { Arch } from './arch/arch'
 const welcome: SlideProps = {
     style: {
         color: '#fff',
-        backgroundColor: '#333'
+        backgroundColor: '#303030'
     },
     isWelcome: true,
     children: (
